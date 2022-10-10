@@ -1,0 +1,27 @@
+# ninja log v5
+8	2540	6859173723874404	CMakeFiles/imagenes.dir/imagen.cpp.obj	20674088348b68fe
+1	3896	6853764702725217	CMakeFiles/imagenes.dir/fecha.cpp.obj	fbd200817213780
+5	1699	6864331234896099	CMakeFiles/imagenes.dir/main.cpp.obj	bc106a538a68fd9
+12	1641	6864331234306063	CMakeFiles/imagenes.dir/contenedor_Imagenes.cpp.obj	95431fdec0ec5547
+1700	2035	6864331238187210	imagenes.exe	61c8a9cc244a1721
+5	873	6865842387910570	CMakeFiles/imagenes.dir/fecha.cpp.obj	470e2e6607245603
+20	922	6865842388420586	CMakeFiles/imagenes.dir/imagen.cpp.obj	599da8cd1a65ed60
+15	1237	6865842391570828	CMakeFiles/imagenes.dir/contenedor_Imagenes.cpp.obj	3d1bb419c2db2b2b
+10	1369	6865842392900912	CMakeFiles/imagenes.dir/main.cpp.obj	5616ee1d0cf33694
+1370	1597	6865842395129909	imagenes.exe	61c8a9cc244a1721
+9	2529	6866022268189030	CMakeFiles/imagenes.dir/main.cpp.obj	5616ee1d0cf33694
+104	4320	6866022413813425	CMakeFiles/imagenes.dir/contenedor_Imagenes.cpp.obj	3d1bb419c2db2b2b
+17	4395	6866022414594414	CMakeFiles/imagenes.dir/main.cpp.obj	5616ee1d0cf33694
+4395	4992	6866022420481459	imagenes.exe	61c8a9cc244a1721
+5	1459	6866055466315548	CMakeFiles/imagenes.dir/main.cpp.obj	5616ee1d0cf33694
+4	1037	6866056311809846	CMakeFiles/imagenes.dir/main.cpp.obj	5616ee1d0cf33694
+5	1128	6866057040020203	CMakeFiles/imagenes.dir/main.cpp.obj	5616ee1d0cf33694
+4	1036	6866059723732144	CMakeFiles/imagenes.dir/contenedor_Imagenes.cpp.obj	3d1bb419c2db2b2b
+1036	1211	6866059725432267	imagenes.exe	61c8a9cc244a1721
+6	1077	6866060008060071	CMakeFiles/imagenes.dir/main.cpp.obj	5616ee1d0cf33694
+13	1195	6866060009250137	CMakeFiles/imagenes.dir/contenedor_Imagenes.cpp.obj	3d1bb419c2db2b2b
+1196	1377	6866060011000267	imagenes.exe	61c8a9cc244a1721
+4	1160	6866062126626908	CMakeFiles/imagenes.dir/contenedor_Imagenes.cpp.obj	3d1bb419c2db2b2b
+1161	1325	6866062128237024	imagenes.exe	61c8a9cc244a1721
+5	1111	6866064969044816	CMakeFiles/imagenes.dir/contenedor_Imagenes.cpp.obj	3d1bb419c2db2b2b
+1112	1283	6866064970734946	imagenes.exe	61c8a9cc244a1721
